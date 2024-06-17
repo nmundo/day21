@@ -52,7 +52,7 @@ class Car {
 
 let sedan = new Car("Civic", "Honda", 2020, 75); // Creates a new instance of Car
 let suv = new Car("CR-V", "Honda", 2020); // Creates a new instance of Car
-let ev = new Car("Model 3", "Tesla", 2020, time=5); // Creates a new instance of Car
+let ev = new Car("Model 3", "Tesla", 2020); // Creates a new instance of Car
 
 // Define a Book class
 class Book {
